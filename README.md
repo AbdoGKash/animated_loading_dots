@@ -1,16 +1,13 @@
-# animated_loading_dots
+# 🚀 Welcome to the Animated Loading Dots Page repository!
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# 🔧 Overview:
 
-A few resources to get you started if this is your first Flutter project:
+* **Built with Dart & Flutter Framework for seamless performance and stunning UI.**<br>
+* **No external packages used.**<br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 🎨 UI
+
+[untitled.webm](https://github.com/user-attachments/assets/5c0fb803-6c38-4a75-9f5c-d07c8f8ce079)
