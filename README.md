@@ -4,7 +4,7 @@
 
 # 🔧 Overview:
 
-* **Built with Dart & Flutter Framework for seamless performance and stunning UI.**<br>
+* **Built with Dart & Flutter Framework.**<br>
 * **No external packages used.**<br>
 
 
